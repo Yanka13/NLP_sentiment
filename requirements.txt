@@ -1,6 +1,5 @@
 # packaging
-pip>=9
-pandas
+pandas==1.2.0
 
 # Streamlit
 streamlit
